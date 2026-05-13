@@ -32,42 +32,4 @@ Projeto desenvolvido por você para praticar lógica de programação e estrutur
 
 
 
-# 📚 Verificador de Aula
 
-Este é um programa simples em Python que verifica se haverá aula dependendo do período informado pelo usuário.
-
-## 🚀 Funcionalidade
-
-O programa funciona da seguinte forma:
-
-- Se o usuário digitar **manhã**, o sistema informa que **tem aula**.
-- Se o usuário digitar **tarde**, o sistema informa que **não tem aula**.
-
-## 💻 Código
-
-```python
-periodo = input("Digite o período (manhã ou tarde): ")
-
-if periodo.lower() == "manhã":
-    print("Hoje tem aula!")
-elif periodo.lower() == "tarde":
-    print("Hoje não tem aula.")
-else:
-    print("Período inválido.")
-▶️ Exemplo de execução
-Entrada:
-manhã
-Saída:
-Hoje tem aula!
-Entrada:
-tarde
-Saída:
-Hoje não tem aula.
-🛠️ Tecnologias utilizadas
-Python
-
-📅 Data do projeto
-13 de maio de 2026
-
-👨‍💻 Autor
-Projeto criado para praticar lógica de programação e estruturas condicionais em Python.
