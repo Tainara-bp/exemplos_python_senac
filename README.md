@@ -28,7 +28,7 @@ Hoje não tem aula.
 Python
 
 👨‍💻 Autor
-Projeto desenvolvido por você para praticar lógica de programação e estruturas condicionais.
+Projeto desenvolvido por Tainara para praticar lógica de programação e estruturas condicionais.
 
 
 
